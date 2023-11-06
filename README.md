@@ -165,7 +165,7 @@ print(f"Input:{np.array([1, 1])}, Predicted: {predict_matrix(np.array([1, 1]), w
 <img width="915" alt="Screenshot_20221111_160302" src="https://user-images.githubusercontent.com/94165103/201322430-16123307-39eb-4ecd-8eac-4c9a4e69dbca.png">
 
 ## RESULT:
-Implementation-of-XOR-using-RBF is successfully implemented..
+Implementation-of-XOR-using-RBF is successfully implemented.
 
 
 
